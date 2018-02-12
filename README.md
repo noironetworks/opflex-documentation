@@ -1,7 +1,7 @@
 # Opflex Documentation
 
 
-# H1 ** This is work in progress **
+# ** This is work in progress **
 
 This repo is used for hosting opflex plugin documentation
 
