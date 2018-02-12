@@ -26,4 +26,13 @@ aci/apic/sw/1-x/openstack/b_OpenStack_Group-Based_Policy_User_Guide.html
 In previous OpFlex plugin versions (referred to as Classical mode) it was necessary to decide at the time of
 deployment if the mode of the plugin will be Neutron/ML2 or GBP, and it was not possible to use both GBP
 and Neutron/ML2 APIs at the same time. Starting from OpFlex plugin version 2.2.1. It is possible to deploy
+the plugin in “Unified” mode. In unified mode it is possible to create application topologies using either
+Neutron or GBP API. Unified plugin mode also requires OpenStack release Mitaka or higher and ACI release
+2.2(1) or higher.
+
+
+Some of the new features introduced in ACI Release 2.3(1) are only supported in Unified Mode. These features
+are IPv6 and Multiple VMM Domain support. These features are not available when deploying in traditional
+mode.
+
 
