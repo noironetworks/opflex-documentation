@@ -39,4 +39,5 @@ Some of the new features introduced in ACI Release 2.3(1) are only supported in 
 are IPv6 and Multiple VMM Domain support. These features are not available when deploying in traditional
 mode.
 
+## For plugin installation instruction please visit [Opflex Documentation Wiki](https://github.com/noironetworks/opflex-documentation/wiki)
 
